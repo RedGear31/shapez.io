@@ -102,9 +102,9 @@ mainMenu:
             усі моди щоб грати у цей режим.
     playingFullVersion: You are now playing the full version!
     logout: Logout
-    noActiveSavegames: No active savegames found - Click play to start a new game!
-    playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
+    noActiveSavegames: Не знайдено жодної активної збереженої гри. Натисніть «ГРАТИ», щоб почати нову гру!
+    playFullVersionV2: Придбали shapez у Steam? Грайте в повну версію у своєму браузері!
+    playFullVersionStandalone: Тепер ви також можете грати в повну версію у своєму браузері!
 dialogs:
     buttons:
         ok: Гаразд
